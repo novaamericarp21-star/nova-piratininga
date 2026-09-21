@@ -1,0 +1,4 @@
+{
+  "rewrites": [{ "source": "/((?!assets/|img/).*)", "destination": "/index.html" }],
+  "redirects": [{ "source": "/sobre-a-fazenda", "destination": "/sobre", "permanent": true }]
+}
